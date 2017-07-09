@@ -15,6 +15,7 @@
 #include <string>
 using namespace std;
 /*
+need to create text name it info_about_customer.txt
 banking system project can choose any thing from MAIN MENU and back to it after make the process ,
 in the project I use fixed lengh (RRN) using ofset assum no dublicat no names or account number is the same
 */
