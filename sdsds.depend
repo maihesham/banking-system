@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1469038427 source:c:\users\bazooka\desktop\sdsds\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cctype>
+	<cmath>
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	"account.h"
+	<string>
+
+1469037728 c:\users\bazooka\desktop\sdsds\account.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cctype>
+	<cmath>
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1469038402 source:c:\users\bazooka\desktop\sdsds\account.cpp
+	"account.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cctype>
+	<cmath>
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
